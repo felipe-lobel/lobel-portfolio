@@ -11,7 +11,6 @@
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 15px 10px;
-
     // DESKTOP
 
     // &__item {
@@ -32,8 +31,8 @@ h2.proj-head__title {
     max-width: 100%;
     width: 100%;
     margin: 10px 0;
-    font-size: 30px;
-
+    font-size: 20px;
+    text-align: justify;
     a:hover {
         // color: #1A1A1A;
         color: $primary-color;
@@ -57,11 +56,13 @@ h2.proj-head__title {
 
 .proj-head__meta {
     margin: 15px 0;
+    text-align: justify;
 }
 
 .proj-meta__item {
     font-size: 16px;
     font-weight: 700;
+    text-align: justify;
     margin: 0;
 
     b {
@@ -73,6 +74,7 @@ h2.proj-head__title {
 .proj-excerpt {
     p {
         font-size: 14px;
+        text-align: justify;
     }
 
     span {
@@ -91,7 +93,6 @@ ul.proj-links {
 .proj-link__item a {
     font-size: 12px;
     color: #1A1A1A;
-
     &:before {
         content: "\00a0 | \00a0";
     }
