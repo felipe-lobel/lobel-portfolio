@@ -8,8 +8,7 @@ byline: "Yello world"
 
 papers:
     - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855881" target="_blank"> The Incidence of Payroll Taxation</a>
-      byline: Presented&#58; NBER Business Taxation; NTA Annual Meeting; Zurich Conference on Public Finance; All Cal Labor Conference; IIPF Annual Congress; RIDGE Workshop on Public Economics; PacDev Conference; UC Berkeley Development, Public Finance and Labor Lunch.
-      status:
+      byline:
       journal:
       date: Updated version available upon request.
       thumbnail: ./images/demo/demo-landscape.jpg

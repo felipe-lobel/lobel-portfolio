@@ -83,6 +83,20 @@ h2.proj-head__title {
     }
 }
 
+.proj-presentation {
+    p {
+        font-size: 8px;
+        text-align: justify;
+        line-height: 60%;
+    }
+
+    span {
+        font-size: 10px;
+        color: black;
+        font-style: italic;
+    }
+}
+
 ul.proj-links {
     max-width: 100%;
     list-style: none;
