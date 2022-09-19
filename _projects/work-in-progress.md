@@ -1,5 +1,5 @@
 ---
-title: 'Working in progress'
+title: 'Work in Progress'
 slug: 'work-in-progress'
 subtitle: 'This is a demo 2'
 date: 2021-06-30 00:00:00
