@@ -21,7 +21,7 @@ papers:
       status: Revise and Resubmit
       journal: Journal of Public Economics
       date: Jul 2022
-      thumbnail: ./images/couples_fig1.jpg
+      thumbnail: ./images/couples_fig1.png
       external_url: https://drive.google.com/file/d/17O7uqYih3pJHIEkvcLxLtoqgCmo6xmHH/view?usp=sharing
       excerpt: We derive optimal labor income tax schedules for married agents, taking the distinction between interpersonal and interhousehold inequality seriously. Each household consists of  two workers with different productivitylevels and unequal access to the family’s economic resources. We handle the multidimensionality that could undermine the Mirrlees’ (1971) approach by restricting preferences to be identical and iso-elastic and by focusing on taxes characterized by income-splitting. After showing how individual-oriented utilitarianism typically leads to a misalignment between the households’ and the government’s objectives, which Apps and Rees (1988) have named dissonance, we provide a complete solution for the screening problem, incorporating different degrees of assortative matching and assessing dissonance’s role in shaping the optimal schedule. We also investigate the welfare gains from gender-based policies.
 
