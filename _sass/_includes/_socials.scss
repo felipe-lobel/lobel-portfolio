@@ -52,3 +52,21 @@
 		color: $background-color;
 	}
 }
+
+.social-container {
+	margin-top: 40px;
+}
+
+.social-icon--link {
+	margin-right: 20px;
+}
+
+.visuallyHidden:not(:focus):not(:active) {
+	clip: rect(0 0 0 0);
+	clip-path: inset(50%);
+	height: 1px;
+	overflow: hidden;
+	position: absolute;
+	white-space: nowrap;
+	width: 1px;
+}
