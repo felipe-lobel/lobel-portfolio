@@ -11,7 +11,7 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 * Install ruby-version 2.7.6
 
 
-0) make sure you are using `ruby-install 2.7.6`
+0) Make sure you are using `ruby-install 2.7.6` or `chruby ruby-2.7.6`
 1) Run `gem install bundler:2.3.13`
 2) Run `bundle exec bundle install`
 3) Run `bundle exec jekyll serve`
