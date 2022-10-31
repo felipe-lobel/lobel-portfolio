@@ -111,3 +111,22 @@ ul.proj-links {
         content: "\00a0 | \00a0";
     }
 }
+
+.is-closed > .line-clamp {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
+
+.readmore-btn {
+    background: none;
+	color: black;
+	border: none;
+	padding: 0;
+	// font: inherit;
+	cursor: pointer;
+	outline: inherit;
+    font-weight: bold;
+}

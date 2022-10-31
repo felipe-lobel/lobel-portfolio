@@ -7,7 +7,11 @@ featured_image: '/images/demo/demo-square.jpg'
 byline: "Yello world"
 
 papers:
-    - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855881" target="_blank"> The Incidence of Payroll Taxation</a>
+    - title: The Incidence of Payroll Taxation
+      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855881
+      tags:
+        - label: micro
+        - label: ecomomics
       byline:
       journal:
       date: Updated version available upon request.
@@ -15,8 +19,9 @@ papers:
       external_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855881
       excerpt: I study a corporate tax reform in Brazil that reduces eligible firms’ payroll tax liability from an average of 31% to 12% of their total wage bill. The tax cut generates a 9.78% increase on employment and zero effect on wages. However, the reform deteriorates within firm wage inequality. Suggestive evidence indicates that results are not driven by formalization. The employment elasticity with respect to the labor cost is between -0.55 and -0.68.
 
-      
-    - title: <a href="https://drive.google.com/file/d/17O7uqYih3pJHIEkvcLxLtoqgCmo6xmHH/view?usp=sharing" target="_blank"> Intra-household Inequality and the Joint Taxation of Household Earnings</a>
+
+    - title: Intra-household Inequality and the Joint Taxation of Household Earnings
+      link: papers/Lobel_Couples_Taxation.pdf
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
       status: Revise and Resubmit
       journal: Journal of Public Economics
