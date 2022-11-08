@@ -376,7 +376,7 @@
         console.log('Howdy', self);
 
         self.toggleClass('is-closed');
-        self.children().toggleClass('is-closed');
+        // self.children().toggleClass('is-closed');
         // self.next('.readmore').toggle(0);
     });
 })(jQuery);
