@@ -6,6 +6,10 @@ social:
    url: https://twitter.com/FelipeLobel
    class: twitter
    cta: Follow me on twitter
+ - title: linkedin
+   url: https://twitter.com/FelipeLobel
+   class: twitter
+   cta: Follow me on twitter
 ---
 
 <section class="blog single">
@@ -41,7 +45,9 @@ social:
 						</span>
 					</a>
 				{% endfor %}
+				
 			</div>
+			<a href="{{site.url}}/lobel-portfolio/assets/Lobel_Couples_Taxation.pdf" target="_blank" >Open PDF</a>
 		</div>
 	</div>
 
@@ -49,7 +55,7 @@ social:
 		{% for research in site.projects %}
 			<div id="{{research.slug}}" class="slide">
 				<h2 class="section-title">{{ research.title }}</h2>
-
+ 
 				{% for paper in research.papers %}
 					<article class="proj-card">
 						<header class="proj-card__item proj-head">

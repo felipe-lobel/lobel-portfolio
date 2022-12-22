@@ -29,6 +29,11 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "assets"
+    values:
+      assets: true
+  -
+    scope:
       path: ""
       type: "pages"
     values:
