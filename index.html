@@ -75,19 +75,11 @@ social:
 								{% for tag in paper.tags %}
 									<div class="proj-label">{{tag.label}}</div>
 								{% endfor %}
-								<!-- <div class="proj-label">
-									{% if research.slug == 'working-papers' %}
-										Working Papers
-									{% else if research.slug == 'work-in-progress' %}
-										Work in Progress
-									{% endif %}
-								</div> -->
-								<!-- <div class="proj-label proj-label--light">Microeconomics</div> -->
 							</div>
 
-							<h2 class="proj-head__title">
+							<div class="proj-head__title">
 								<a href="{{paper.link}}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
-							</h2>
+							</div>
 
 							<div class="proj-head__meta">
 								<p class="proj-meta__item proj-byline">

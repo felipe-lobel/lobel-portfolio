@@ -1,7 +1,7 @@
 basic_settings:
   site_title: Felipe Lobel
   site_tagline:
-  favicon_image: /images/favicon.png
+  favicon_image: /images/tennis_v5.png
 
 header_settings:
   logo_image:
@@ -18,9 +18,11 @@ menu_settings:
       url: '#working-papers'
     - title: 'Work in Progress'
       url: '#work-in-progress'
+    - title: 'Books'
+      url: '#books'
 
 grid_settings:
-  grid_spacing: 10
+  grid_spacing: 30
 
 contact_settings:
   form_action: ''
