@@ -12,6 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '#home'
+    - title: 'Publications'
+      url: '#publications'
     - title: 'Working Papers'
       url: '#working-papers'
     - title: 'Work in Progress'
