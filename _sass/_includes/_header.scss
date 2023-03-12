@@ -87,7 +87,6 @@ $gray-overlay-text: #CCC;
 .header__content {
 	width: 100%;
 	position: relative;
-	
 
 	@include mq(tabletl) {
 		// position: absolute;
@@ -264,7 +263,7 @@ $gray-overlay-text: #CCC;
 	left: 0;
 	background: rgba($overlay-background-color,0.95);
 	overflow: auto;
-	color: #230C51;
+	
 
 	visibility: hidden;
 	opacity: 0;

@@ -22,7 +22,7 @@ menu_settings:
       url: '#books'
 
 grid_settings:
-  grid_spacing: 30
+  grid_spacing: 10
 
 contact_settings:
   form_action: ''

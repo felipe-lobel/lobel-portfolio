@@ -48,20 +48,12 @@ social:
 					</a>
 				{% endfor %}
 			</div>
-			
-			
-
-		
-	
-			
-			
-
-
 
 			
 			<!-- <a href="{{site.url}}/lobel-portfolio/assets/Lobel_Couples_Taxation.pdf" target="_blank" >Open PDF</a> -->
 		</div>
 	</div>
+
 
 	<div class="wrap">
 		{% for research in site.projects %}
@@ -77,9 +69,9 @@ social:
 								{% endfor %}
 							</div>
 
-							<div class="proj-head__title">
+							<h2 class="proj-head__title">
 								<a href="{{paper.link}}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
-							</div>
+							</h2>
 
 							<div class="proj-head__meta">
 								<p class="proj-meta__item proj-byline">
@@ -88,11 +80,17 @@ social:
 
 								{% if paper.journal %}
 								<p class="proj-meta__item proj-publication">
-									{% if paper.status %}{{ paper.status }}, {% endif %}<b>{{ paper.journal }}</b>{% if paper.date %}, {{ paper.date }}{% endif %}
+									{% if paper.status %}{{ paper.status }}, {% endif %}<b> {{ paper.journal }} </b> {% if paper.date %}, {{ paper.date }}{% endif %}
+								</p>
+								{% else %}
+
+								<p class="proj-conference">
+									{% if paper.presentation %} <span style="color: #230C51; font-weight: bold; font-size: 14px;"> Presented: </span> {{ paper.presentation }}{% endif %}
 								</p>
 								{% endif %}
 
 							</div>
+
 						</header>
 
 						<figure class="proj-card__item proj-thumbnail">
@@ -103,18 +101,13 @@ social:
 							{% if paper.excerpt %}
 							<div class="proj-excerpt readmore is-closed">
 								<p class="line-clamp">
-									Abstract: {{ paper.excerpt }}
+									<span style="font-weight: bold; color: black;text-decoration:underline;"> Abstract:</span> {{ paper.excerpt }}
 								</p>
 								<button class="readmore-btn open">Read more</button>
 								<button class="readmore-btn close">Read less</button>
 							</div>
 							{% endif %}
 
-							<!-- <ul class="proj-links">
-								<li class="proj-link__item"><a class="" href="#" target="_blank">Project version</a></li>
-								<li class="proj-link__item"><a class="" href="#" target="_blank">Appendix</a></li>
-								<li class="proj-link__item"><a class="" href="#" target="_blank">Replication code</a></li>
-							</ul> -->
 					</article>
 				{% endfor %}
 			</div>
