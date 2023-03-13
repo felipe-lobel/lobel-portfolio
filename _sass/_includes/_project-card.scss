@@ -183,3 +183,52 @@ ul.proj-links {
         display: none;
     }
 }
+
+
+.teach-university {
+    margin: 0 30px 0 0;
+    width: auto;
+    margin-top: 40px;
+    max-width: 100%;
+    width: 100%;
+    font-size: 28px;
+    text-align: justify;
+    line-height: 1.4;
+    color: #230C51;
+    font-weight: bold;
+}
+
+.teach-level {
+    margin: 15px 15px 0 20px;
+    width: auto;
+    max-width: 100%;
+    width: 100%;
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.4;
+    color: $text-medium-color;
+    font-weight: bold;
+}
+
+.teach-class {
+    margin: 10px 10px 0 40px;
+    width: auto;
+    max-width: 100%;
+    width: 100%;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.4;
+    color: black;
+}
+
+.teach-professor {
+    margin: 5px 5px 0 40px;
+    width: auto;
+    max-width: 100%;
+    width: 100%;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.4;
+    color: $text-medium-color;
+    font-style: italic;
+}
