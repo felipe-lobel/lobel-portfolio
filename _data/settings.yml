@@ -20,6 +20,8 @@ menu_settings:
       url: '#work-in-progress'
     - title: 'Books'
       url: '#books'
+    - title: 'Teaching'
+      url: '#teaching'
 
 grid_settings:
   grid_spacing: 10
