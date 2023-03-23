@@ -18,7 +18,7 @@ featured_image: /images/demo/demo-landscape.jpg
 </section>
 
 <div class="wrap">
-	{% for research in site.projects %}
+	{% for research in site.projects reversed %}
 		<h1>{{ research.title }}</h1>
 		{% for paper in research.papers %}
 			<article class="proj-card">

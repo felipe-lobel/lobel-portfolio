@@ -1,6 +1,6 @@
 ---
 title: 'Working Papers'
-slug: 'working-papers'
+slug: 'd-working-papers'
 subtitle: 'This is a demo'
 
 papers:
