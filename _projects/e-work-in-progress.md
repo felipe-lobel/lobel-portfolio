@@ -1,6 +1,6 @@
 ---
 title: 'Work in Progress'
-slug: 'work-in-progress'
+slug: 'e-work-in-progress'
 subtitle: 'This is a demo 2'
 date: 2021-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'

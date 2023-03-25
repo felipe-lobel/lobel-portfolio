@@ -25,8 +25,10 @@ body {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $title-font;
+	// font-family: $title-font;
+	font-family: Arial, Helvetica, sans-serif;
 	color: $text-dark-color;
+	
 
 	&:first-child {
 		margin-top: 0;
@@ -34,8 +36,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-	font-size: $h1-small;
-	font-weight: $h1-weight;
+	font-weight: bold;
 	line-height: $h1-lineheight;
 	letter-spacing: $h1-spacing;
 
@@ -44,7 +45,7 @@ h1, .h1 {
 	}
 
 	@include mq(laptop) {
-		font-size: $h1-large;
+		font-size: 49px;
 	}
 
 	a {
