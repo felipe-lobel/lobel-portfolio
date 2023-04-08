@@ -39,6 +39,8 @@ h1, .h1 {
 	font-weight: bold;
 	line-height: $h1-lineheight;
 	letter-spacing: $h1-spacing;
+	color: #230C51;
+	font-size: 49px;
 
 	@include mq(tabletp) {
 		font-size: $h1-medium;
@@ -498,5 +500,13 @@ section {
 		padding: 22px 14px 23px 25px;
 		font-size: 15px;
 		@include translate(0,30px);
+	}
+}
+
+.tablet-only {
+	display: block;
+	
+	@include mq('tabletp') {
+		display: none !important;
 	}
 }

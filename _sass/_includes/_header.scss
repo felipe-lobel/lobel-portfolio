@@ -11,7 +11,6 @@ $gray-overlay-text: #CCC;
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
-	font-family: Arial, Helvetica, sans-serif;
 	padding: 40px 20px;
 	background-color: $primary-color;
 	color: $gray-overlay-text;
@@ -62,7 +61,6 @@ $gray-overlay-text: #CCC;
 	@include mq(desktop) {
 		width: 25%;
 		max-width: 300px;
-		outline: 1px solid red;
 	}
 }
 
@@ -88,7 +86,6 @@ $gray-overlay-text: #CCC;
 .header__content {
 	width: 100%;
 	position: relative;
-	font-family: Arial, Helvetica, sans-serif;
 
 	@include mq(tabletl) {
 		// position: absolute;
@@ -221,7 +218,7 @@ $gray-overlay-text: #CCC;
 		width: 100%;
 		height: 3px;
 		@include transition(all 0.1s);
-		background: rgba($overlay-text-color, 0.7);
+		background: white
 	}
 
 	span:before {
