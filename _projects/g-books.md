@@ -5,6 +5,7 @@ subtitle: 'This is a demo'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 byline: "Yello world"
+order: 4
 
 papers:
     - title: <a href="https://ai4good.org/shop/" target="_blank"> Thriving in Economics </a>

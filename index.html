@@ -57,7 +57,7 @@ social:
 
 
 	<div class="wrap">
-		{% for research in site.projects %}
+		{% for research in site.projects | sort: 'order' %}
 			<div id="{{research.slug}}" class="slide">
 				<h2 class="section-title">{{ research.title }}</h2>
  

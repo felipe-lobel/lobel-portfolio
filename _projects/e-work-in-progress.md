@@ -4,6 +4,7 @@ slug: 'e-work-in-progress'
 subtitle: 'This is a demo 2'
 date: 2021-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
+order: 3
 
 papers:
     - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231413" target="_blank"> The Cost of Informality&#58 An Optimal Taxation Approach </a>

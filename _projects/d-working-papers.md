@@ -2,6 +2,7 @@
 title: 'Working Papers'
 slug: 'd-working-papers'
 subtitle: 'This is a demo'
+order: 2
 
 papers:
     - title: The Unequal Incidence of Payroll Taxes with Imperfect Competition&#58; Theory and Evidence
