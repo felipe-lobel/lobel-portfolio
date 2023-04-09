@@ -233,7 +233,7 @@ $gray-overlay-text: #CCC;
 .menu--open .menu__toggle__icon {
 
 	span:before, span:after {
-		background: $overlay-text-color !important;
+		background: white;
 	}
 
 	span {

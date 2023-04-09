@@ -510,3 +510,11 @@ section {
 		display: none !important;
 	}
 }
+
+.tabletl-only {
+	display: block;
+	
+	@include mq('tabletl') {
+		display: none !important;
+	}
+}

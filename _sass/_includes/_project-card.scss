@@ -110,6 +110,12 @@
 }
 
 .proj-excerpt {
+    margin-top: 60px;
+    
+    @include mq(tabletp) {
+        margin-top: 0px;
+    }
+
     p {
         font-size: 12px;
         text-align: justify;

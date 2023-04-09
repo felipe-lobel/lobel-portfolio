@@ -19,7 +19,7 @@ menu_settings:
     - title: 'Work in Progress'
       url: '#e-work-in-progress'
     - title: 'Books'
-      url: '#g-books'
+      url: '#f-books'
     - title: 'Teaching'
       url: '#teaching'
 

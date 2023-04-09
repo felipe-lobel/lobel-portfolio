@@ -17,9 +17,7 @@ collections:
   projects:
     output: true
     permalink: /project/:collection
-  Researches:
-    output: true
-    permalink: /research/:collection
+
 
 defaults:
   -
