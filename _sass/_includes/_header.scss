@@ -165,14 +165,14 @@ $gray-overlay-text: #CCC;
 	display: none;
 
 	@include mq(laptop) {
-		margin-top: 500px;
-		margin-bottom: 50px;
+		margin-top: 50px;
+		margin-bottom: -10px;
 		display: block;
 	}
 
 	@include mq(tabletl) {
 		margin-top: 50px;
-		margin-bottom: -15px;
+		margin-bottom: -50px;
 		display: block;
 	}
 
