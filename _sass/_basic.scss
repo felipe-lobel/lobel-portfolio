@@ -9,6 +9,7 @@
 
 html, body {
 	height: 100%;
+	scroll-padding-top: 80px;
 }
 
 body {
@@ -306,6 +307,7 @@ hr {
 }
 
 .page {
+	margin-top: 80px;
 	@include transition(all 0.4s ease-in-out);
 }
 
@@ -506,7 +508,7 @@ section {
 .tablet-only {
 	display: block;
 	
-	@include mq('tabletp') {
+	@include mq('tabletl') {
 		display: none !important;
 	}
 }

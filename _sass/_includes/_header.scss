@@ -11,17 +11,13 @@ $gray-overlay-text: #CCC;
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
+	position: fixed;
 	padding: 40px 20px;
+	z-index: 10;
 	background-color: $primary-color;
 	color: $gray-overlay-text;
 
-	@include mq(tabletp) {
-		padding: 80px 40px;
-	}
-
 	@include mq(tabletl) {
-		position: fixed;
-		z-index: 10;
 		overflow: auto;
 		top: 0;
 		left: 0;
@@ -166,8 +162,20 @@ $gray-overlay-text: #CCC;
 }
 
 .header__dot {
-	margin-top: 50px;
-	margin-bottom: -50px;
+	display: none;
+
+	@include mq(laptop) {
+		margin-top: 500px;
+		margin-bottom: 50px;
+		display: block;
+	}
+
+	@include mq(tabletl) {
+		margin-top: 50px;
+		margin-bottom: -15px;
+		display: block;
+	}
+
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu

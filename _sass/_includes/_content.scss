@@ -9,7 +9,7 @@
 }
 
 .intro {
-	height: 100vh;
+	min-height: 100vh;
 	margin-top: 0;
 	padding: 20px 0 0;
 
@@ -75,6 +75,11 @@
         font-weight: normal;
     }
 	
+}
+
+.headshot {
+	max-width: 400px;
+	margin: 0 auto;
 }
 
 .image-wrap,
