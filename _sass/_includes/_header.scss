@@ -170,11 +170,7 @@ $gray-overlay-text: #CCC;
 		display: block;
 	}
 
-	@include mq(tabletl) {
-		margin-top: 50px;
-		margin-bottom: -50px;
-		display: block;
-	}
+	
 
 }
 
