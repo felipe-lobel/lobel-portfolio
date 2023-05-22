@@ -9,6 +9,7 @@
 
 html, body {
 	height: 100%;
+	scroll-padding-top: 80px;
 }
 
 body {
@@ -25,8 +26,10 @@ body {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Typography
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: $title-font;
+	// font-family: $title-font;
+	font-family: Arial, Helvetica, sans-serif;
 	color: $text-dark-color;
+	
 
 	&:first-child {
 		margin-top: 0;
@@ -34,17 +37,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1, .h1 {
-	font-size: $h1-small;
-	font-weight: $h1-weight;
+	font-weight: bold;
 	line-height: $h1-lineheight;
 	letter-spacing: $h1-spacing;
+	color: #230C51;
+	font-size: 49px;
 
 	@include mq(tabletp) {
 		font-size: $h1-medium;
 	}
 
 	@include mq(laptop) {
-		font-size: $h1-large;
+		font-size: 49px;
 	}
 
 	a {
@@ -303,6 +307,7 @@ hr {
 }
 
 .page {
+	margin-top: 80px;
 	@include transition(all 0.4s ease-in-out);
 }
 
@@ -497,5 +502,21 @@ section {
 		padding: 22px 14px 23px 25px;
 		font-size: 15px;
 		@include translate(0,30px);
+	}
+}
+
+.tablet-only {
+	display: block;
+	
+	@include mq('tabletl') {
+		display: none !important;
+	}
+}
+
+.tabletl-only {
+	display: block;
+	
+	@include mq('tabletl') {
+		display: none !important;
 	}
 }

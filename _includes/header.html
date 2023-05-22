@@ -20,6 +20,10 @@
 
 	<img class="header__img" src="./images/felipe-lobel.jpg" alt="Felipe Lobel headshot"/>
 
+	
+	<div class="header__dot" style="font-size: 20px; line-height: 0px; color:rgba($gray-overlay-text, 0.7); text-align: center;">&#8226;</div>
+	
+
 	<div class="header__content">
 		<p class="header__tagline">{{ site.data.settings.basic_settings.site_tagline }}</p>
 
@@ -31,7 +35,7 @@
 				<ul class="menu__list">
 					{% for item in site.data.settings.menu_settings.menu_items %}
 					<li class="menu__list__item">
-						<a href="{{ item.url | relative_url }}" class="menu__list__item__link">{{ item.title }}</a>
+						<a href="{{ item.url | relative_url }}" class="menu__list__item__link js-menu-toggle">{{ item.title }}</a>
 					</li>
 					{% endfor %}
 				</ul>

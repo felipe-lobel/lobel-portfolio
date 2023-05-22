@@ -11,17 +11,13 @@ $gray-overlay-text: #CCC;
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Header
 
 .header {
+	position: fixed;
 	padding: 40px 20px;
+	z-index: 10;
 	background-color: $primary-color;
 	color: $gray-overlay-text;
 
-	@include mq(tabletp) {
-		padding: 80px 40px;
-	}
-
 	@include mq(tabletl) {
-		position: fixed;
-		z-index: 10;
 		overflow: auto;
 		top: 0;
 		left: 0;
@@ -61,7 +57,6 @@ $gray-overlay-text: #CCC;
 	@include mq(desktop) {
 		width: 25%;
 		max-width: 300px;
-		outline: 1px solid red;
 	}
 }
 
@@ -116,7 +111,8 @@ $gray-overlay-text: #CCC;
 }
 
 .header__title {
-	font-family: $title-font;
+	// font-family: $title-font;
+	font-family: Arial, Helvetica, sans-serif;
 	font-size: $sitetitle-small;
 	font-weight: $sitetitle-weight;
 	letter-spacing: $sitetitle-spacing;
@@ -165,20 +161,34 @@ $gray-overlay-text: #CCC;
 	}
 }
 
+.header__dot {
+	display: none;
 
+	@include mq(laptop) {
+		margin-top: 50px;
+		margin-bottom: -35px;
+		display: block;
+	}
+
+}
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
 
 .menu {
 
 	@include mq(tabletl) {
-		margin-top: 20px;
+		margin-top: 10px;
 	}
+
+	text-align: center;
+
 
 	@include mq(laptop) {
 		margin-top: 30px;
 	}
 }
+
+
 
 .menu__toggle {
 	position: absolute;
@@ -200,6 +210,7 @@ $gray-overlay-text: #CCC;
 	width: 24px;
 	height: 20px;
 	margin-left: 8px;
+	
 
 	span, span:before, span:after {
 		content: '';
@@ -209,7 +220,7 @@ $gray-overlay-text: #CCC;
 		width: 100%;
 		height: 3px;
 		@include transition(all 0.1s);
-		background: rgba($overlay-text-color, 0.7);
+		background: white
 	}
 
 	span:before {
@@ -224,7 +235,7 @@ $gray-overlay-text: #CCC;
 .menu--open .menu__toggle__icon {
 
 	span:before, span:after {
-		background: $overlay-text-color !important;
+		background: white;
 	}
 
 	span {
@@ -254,6 +265,7 @@ $gray-overlay-text: #CCC;
 	left: 0;
 	background: rgba($overlay-background-color,0.95);
 	overflow: auto;
+	
 
 	visibility: hidden;
 	opacity: 0;
@@ -278,6 +290,7 @@ $gray-overlay-text: #CCC;
 	list-style: none;
 	margin: 0 auto;
 	padding: 12px 20px;
+	
 
 	@include mq(tabletp) {
 		padding: 30px 40px;
@@ -320,7 +333,8 @@ $gray-overlay-text: #CCC;
 .menu__button {
 	margin-top: 15px;
 	padding: 15px 20px 16px;
-	font-size: 13px;
+	font-size: 14px;
+	
 
 	@include mq(tabletl) {
 		margin-top: 0;

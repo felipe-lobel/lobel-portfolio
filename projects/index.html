@@ -22,7 +22,7 @@ featured_image: /images/demo/demo-landscape.jpg
 
 	<div class="wrap">
 
-		{% for project in site.projects reversed %}
+		{% for project in site.projects | sort: 'order' %}
 
 		<div class="portfolio-item">
 

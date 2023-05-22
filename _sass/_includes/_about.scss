@@ -1,9 +1,12 @@
 .about_bio {
-	font-family: $body-font;
-	font-weight: $regular-weight;
-	font-style: normal;
-	line-height: 1.6;
-    font-size: 20px;
+	// font-family: $body-font;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	color: $text-dark-color;
+	line-height: 1.5;
+    font-size: 22px;
     padding-top: 40px;
 	text-align: justify;
+	letter-spacing: 0.1px;
+	
 }

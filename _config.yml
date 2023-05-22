@@ -17,9 +17,7 @@ collections:
   projects:
     output: true
     permalink: /project/:collection
-  Researches:
-    output: true
-    permalink: /research/:collection
+
 
 defaults:
   -
@@ -27,6 +25,11 @@ defaults:
       path: ""
     values:
       layout: "default"
+  -
+    scope:
+      path: "assets"
+    values:
+      assets: true
   -
     scope:
       path: ""

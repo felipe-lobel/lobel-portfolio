@@ -1,52 +1,61 @@
 .proj-card {
     padding: 20px;
     border: 1px #E0E0E0 solid;
-    box-shadow: 0px 3px 15px rgba(0,0,0,0.2);
+    box-shadow: 2px 2px 4px -2px rgba(0, 0, 0, 50%);
+    border-radius: 15px;
     background-color: #FFF;
     margin-top: 40px;
 
     p { max-width: 100%; }
 
-    // display: flex;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px 10px;
-    // DESKTOP
-
-    // &__item {
-    //     outline: 1px solid red;
-    // }
-
-    .proj-thumbnail {
-        order: -1;
-        grid-column: span;
-        grid-row: 1 / 3;
-        margin: 0 40px 0 0;
+    @include mq(tabletp) {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-template-rows: auto 1fr;
+        gap: 25px 10px;
     }
 }
 
+.proj-card__item {
+    margin: 0 30px 0 0;
+    width: auto;
+    margin-top: -25px;
+}
+
+.proj-thumbnail {
+    order: -1;
+    grid-column: span;
+    grid-row: 1 / 3;
+    margin: 20px 40px 0 0;
+}
 
 
-h2.proj-head__title {
+.proj-head__title {
     max-width: 100%;
     width: 100%;
     margin: 10px 0;
-    font-size: 20px;
+    font-size: 18px;
     text-align: justify;
-    a:hover {
-        // color: #1A1A1A;
-        color: $primary-color;
+    line-height: 1.4;
+
+    a {
+        color: #230C51;
+        font-weight: bold;
     }
+
 }
 
+
 .proj-label {
-    padding: 5px 4px;
-    background: #CCC;
+    padding: 4px 3px;
+    background: white;
+    margin-top: 14px;
+    margin-bottom: -1px;
     text-transform: uppercase;
     display: inline-block;
-    color: #1A1A1A;
-    border: 2px #CCC solid;
-    font-size: 12px;
+    color: #230C51;
+    border: 2px #230C51 solid;
+    font-size: 8px;
     letter-spacing: .06em;
 
     &--light {
@@ -57,24 +66,60 @@ h2.proj-head__title {
 .proj-head__meta {
     margin: 15px 0;
     text-align: justify;
+
+    p {
+        line-height: 1.4;
+    }
 }
 
 .proj-meta__item {
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 700;
     text-align: justify;
     margin: 0;
 
     b {
-        color: #1A1A1A;
+        color: #230C51;
         font-weight: bold;
+    }
+    
+}
+
+.proj-conference {
+    font-size: 12px;
+    text-align: justify;
+    line-height: 1.4;
+}
+
+.proj-award {
+    margin-top: -5px;
+    a {
+        font-size: 12px;
+        color: $text-medium-color;
+        text-align: justify;
+        line-height: 1.4;  
     }
 }
 
+.proj-draft {
+    margin-top: 1px;
+    font-size: 14px;
+    font-weight: bold;
+    color: #230C51;
+
+}
+
 .proj-excerpt {
+    margin-top: 60px;
+    
+    @include mq(tabletp) {
+        margin-top: 0px;
+    }
+
     p {
-        font-size: 14px;
+        font-size: 12px;
         text-align: justify;
+        color: #1A1A1A;
     }
 
     span {
@@ -97,17 +142,98 @@ h2.proj-head__title {
     }
 }
 
+
 ul.proj-links {
     max-width: 100%;
     list-style: none;
     display: flex;
-    // flex-direction: row wrap;
 }
 
 .proj-link__item a {
     font-size: 12px;
     color: #1A1A1A;
+
     &:before {
         content: "\00a0 | \00a0";
     }
+}
+
+.readmore {
+    .readmore-btn {
+        background: none;
+        color: black;
+        border: none;
+        padding: 0;
+        cursor: pointer;
+        outline: inherit;
+        font-weight: bold;
+    }
+
+    &.is-closed {
+        & > .readmore-btn.close {
+            display: none;
+        }
+
+        & > .readmore-btn.open {
+            display: block;
+        }
+
+        & > .line-clamp {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+        }
+    }
+
+    &:not(.is-closed) > .readmore-btn.open {
+        display: none;
+    }
+}
+
+
+.teach-university {
+    margin: 0 30px 0 0;
+    width: auto;
+    margin-top: 40px;
+    max-width: 100%;
+    width: 100%;
+    font-size: 28px;
+    text-align: justify;
+    line-height: 1.4;
+    color: #230C51;
+    font-weight: bold;
+}
+
+.teach-level {
+    margin: 15px 15px 0 20px;
+    width: auto;
+    max-width: 100%;
+    width: 100%;
+    font-size: 22px;
+    text-align: justify;
+    line-height: 1.4;
+    color: $text-medium-color;
+    font-weight: bold;
+}
+
+.teach-class {
+    margin: 10px 10px 0 40px;
+    max-width: 100%;
+    font-size: 18px;
+    text-align: justify;
+    line-height: 1.4;
+    color: black;
+}
+
+.teach-professor {
+    margin: 5px 5px 0 40px;
+    width: auto;
+    max-width: 100%;
+    font-size: 14px;
+    text-align: justify;
+    line-height: 1.4;
+    color: $text-medium-color;
+    font-style: italic;
 }
