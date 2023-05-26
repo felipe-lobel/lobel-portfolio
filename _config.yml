@@ -1,8 +1,8 @@
 
 
-domain: gusfaria.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://gusfaria.github.io  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /lobel-portfolio/      # place folder name if the site is served in a subfolder
+domain: felipelobel.com       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://felipelobel.com  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /     # place folder name if the site is served in a subfolder
 
 # url:
 # baseurl:
