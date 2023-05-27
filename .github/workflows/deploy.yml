@@ -25,4 +25,4 @@ jobs:
         git config --global user.name "Your Bot Name"
         git add -A
         git commit -m "Auto-deploy Jekyll site"
-        git push https://${JEKYLL_PAT}@github.com/username/repo.git
+        git push https://${JEKYLL_PAT}@github.com/felipe-lobel/lobel-portfolio.git
