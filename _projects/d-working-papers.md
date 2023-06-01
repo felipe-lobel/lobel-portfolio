@@ -23,7 +23,7 @@ papers:
 
 
     - title: Intra-household Inequality and the Joint Taxation of Household Earnings
-      link: /assets/Lobel_Couples_Taxation.pdf
+      link: _site/assets/Lobel_Couples_Taxation.pdf
       tags:
         - label: theory
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
