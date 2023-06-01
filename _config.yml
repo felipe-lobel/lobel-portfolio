@@ -70,3 +70,6 @@ plugins:
 
 paginate: 6
 paginate_path: "/blog/page:num/"
+
+google_analytics: G-DE84G6C58D
+

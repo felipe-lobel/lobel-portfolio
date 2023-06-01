@@ -29,6 +29,7 @@
 	<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}">
 	<meta name="twitter:image:src" content="{{ page.featured_image | absolute_url }}">
 
+
 	<!-- Facebook OpenGraph -->
 	<meta property="og:title" content="{% if page.url == "/" %}{{ site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{ site.data.settings.basic_settings.site_title }}{% endif %}" />
 	<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | xml_escape }}{% else %}{{ page.excerpt | strip_html | xml_escape }}{% endif %}" />
@@ -61,6 +62,18 @@
 	{% if site.data.settings.advanced_settings.header_js %}
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
+	{% endif %}
+
+	{% if site.google_analytics %}
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
 	{% endif %}
 
 </head>
