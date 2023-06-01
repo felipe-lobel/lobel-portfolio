@@ -18,6 +18,7 @@ papers:
       draft: New draft coming soon
       thumbnail: ./images/event_study_firm_level_earnings_avg_pctile.png
       external_url:
+      excerpt:
 
 
 
