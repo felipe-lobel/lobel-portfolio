@@ -23,7 +23,7 @@ papers:
 
 
     - title: Intra-household Inequality and the Joint Taxation of Household Earnings
-      link: /assets/Lobel_Couples_Taxation.pdf target="_blank"
+      link: /assets/Lobel_Couples_Taxation.pdf
       tags:
         - label: theory
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
@@ -38,7 +38,7 @@ papers:
 
 
     - title: Reducing Interference Bias in Online Marketplace Experiments Using Cluster Randomization&#58; Evidence from a Pricing Meta-Experiment on Airbnb
-      link: papers/Marketplace_Interference_MS_R_R.pdf
+      link: /assets/Marketplace_Interference_MS_R_R.pdf
       tags:
         - label: experimental
       byline: "with David Holtz, Ruben Lobel, Inessa Liskovich, Sinan Aral"
