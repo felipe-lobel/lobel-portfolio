@@ -11,7 +11,7 @@ papers:
       tags:
         - label: applied micro
       byline: "with Thiago Scot and Pedro Zuniga"
-      status: Conditionally Accepted
+      status: Accepted
       journal: American Economic Journal&#58; Economic Policy
       date: Feb 2023
       award: <a href="https://www.iipf.org/itaxaward.html" target="_blank"> ITAX Best PhD Student Paper Award</a>

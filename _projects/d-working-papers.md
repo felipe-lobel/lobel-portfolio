@@ -5,8 +5,8 @@ subtitle: 'This is a demo'
 order: 2
 
 papers:
-    - title: The Unequal Incidence of Payroll Taxes with Imperfect Competition&#58; Theory and Evidence
-      link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3855881
+    - title: Market Power and Payroll Taxes
+      link:
       tags:
         - label: applied micro
         - label: theory
