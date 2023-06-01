@@ -12,7 +12,7 @@ papers:
         - label: theory
       byline:
       journal:
-      presentation: NBER Business Taxation; SOLE; NTA; IIPF; Zurich Conference on PF; RIDGE; UC Berkeley Labor and PF Lunch
+      presentation: NBER Business Taxation; SOLE; NTA; IIPF; Zurich Conference on PF; RIDGE
       date:
       award:
       draft: New draft coming soon
@@ -23,7 +23,7 @@ papers:
 
 
     - title: Intra-household Inequality and the Joint Taxation of Household Earnings
-      link: papers/Lobel_Couples_Taxation.pdf
+      link: <a href="{{site.url}}/lobel-portfolio/assets/Lobel_Couples_Taxation.pdf" target="_blank" >Open PDF</a>
       tags:
         - label: theory
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
