@@ -12,11 +12,11 @@ papers:
         - label: theory
       byline:
       journal:
-      presentation: NBER Business Taxation; SOLE; NTA; IIPF; Zurich Conference on PF; RIDGE
+      presentation: NBER Business Taxation; SOLE; NTA; IIPF
       date:
       award:
       draft: New draft coming soon
-      thumbnail: ./images/event_study_firm_level_earnings_avg_pctile.png
+      thumbnail: ./images/employment_cost_balance_before_2015_v4.png
       external_url:
       excerpt:
 
