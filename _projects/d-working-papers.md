@@ -5,7 +5,7 @@ subtitle: 'This is a demo'
 order: 2
 
 papers:
-    - title: Market Power and Payroll Taxes
+    - title: Payroll Taxes and Market Power
       link:
       tags:
         - label: applied micro
