@@ -5,7 +5,8 @@ subtitle: 'This is a demo'
 order: 2
 
 papers:
-    - title: Payroll Taxes and Market Power
+    - title: The Visible Hands of Firms&#58; Consequences for
+Efficiency and Incidence of Payroll Taxation
       link:
       tags:
         - label: applied micro
