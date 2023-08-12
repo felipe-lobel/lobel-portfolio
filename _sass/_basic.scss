@@ -14,7 +14,7 @@ html, body {
 
 body {
 	background: $background-color;
-	font-family: $body-font;
+	font-family: sans-serif;
 	font-weight: $regular-weight;
 	font-style: normal;
 	line-height: 1;
@@ -170,7 +170,8 @@ ul, ol {
 
 blockquote {
 	margin-top: 15px;
-	font-family: $title-font;
+	// font-family: $title-font;
+	font-family: sans-serif;
 	font-size: $blockquote-small;
 	font-weight: $blockquote-weight;
 	letter-spacing: $blockquote-spacing;
