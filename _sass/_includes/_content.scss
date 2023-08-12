@@ -60,7 +60,8 @@
 }
 
 .author-info {
-	margin-top: 5px;
+	margin-top: 10px;
+	font-size: 5px;
 	list-style: none;
 	font-weight: normal;
 	line-height: 1.3;
@@ -73,6 +74,7 @@
 
 	a {
         color: $text-light-color;
+		font-size: 5px;
         font-weight: normal;
 		margin-top: 5px;
 		font-family: sans-serif;
