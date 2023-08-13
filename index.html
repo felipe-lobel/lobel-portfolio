@@ -11,7 +11,7 @@ social:
    class: mail
    cta: Email me
  - title: cv
-   url: https://drive.google.com/file/d/1k911KRmjwMI2ml8cOK1CwOsb1p5Gk4Mc/view?usp=drive_link
+   url: /assets/FelipeLobel_CV.pdf
    class: cv
    cta: My cv
    target: _blank
@@ -37,18 +37,18 @@ social:
 
 			<div class="social-container">
 				{% for icon in page.social %}
-					<a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}">
-						{% include {{ icon.class | prepend: '/svgs/' | append: '.svg' }} %}
-						<span class="social-icon--title visuallyHidden">
-							{% if icon.cta %}
-								{{ icon.cta }}
-							{% else %}
-								{{icon.title}}
-							{% endif %}
-						</span>
-					</a>
+				  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}" {% if icon.class == 'cv' %}target="_blank"{% endif %}>
+					{% include {{ icon.class | prepend: '/svgs/' | append: '.svg' }} %}
+					<span class="social-icon--title visuallyHidden">
+					  {% if icon.cta %}
+						{{ icon.cta }}
+					  {% else %}
+						{{icon.title}}
+					  {% endif %}
+					</span>
+				  </a>
 				{% endfor %}
-			</div>
+			  </div>			  
 		</div>
 	</div>
 
