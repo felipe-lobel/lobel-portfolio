@@ -37,18 +37,18 @@ social:
 
 			<div class="social-container">
 				{% for icon in page.social %}
-				  <a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}" {% if icon.class == 'cv' %}target="_blank"{% endif %}>
-					{% include {{ icon.class | prepend: '/svgs/' | append: '.svg' }} %}
-					<span class="social-icon--title visuallyHidden">
-					  {% if icon.cta %}
-						{{ icon.cta }}
-					  {% else %}
-						{{icon.title}}
-					  {% endif %}
-					</span>
-				  </a>
+					<a class="social-icon--link {{ icon.class }}" href="{{ icon.url }}" target="_blank">
+						{% include {{ icon.class | prepend: '/svgs/' | append: '.svg' }} %}
+						<span class="social-icon--title visuallyHidden">
+							{% if icon.cta %}
+								{{ icon.cta }}
+							{% else %}
+								{{icon.title}}
+							{% endif %}
+						</span>
+					</a>
 				{% endfor %}
-			  </div>			  
+			</div>
 		</div>
 	</div>
 
