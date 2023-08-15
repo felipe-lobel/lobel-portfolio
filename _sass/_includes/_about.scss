@@ -2,7 +2,7 @@
 	// font-family: $body-font;
 	font-family: sans-serif;
 	font-weight: normal;
-	color: #230C51;
+	color: black;
 	line-height: 1.5;
     font-size: 25px;
     padding-top: 40px;
@@ -10,7 +10,8 @@
 	letter-spacing: 0.1px;
 	
 	a {
-        font-weight:400;
+        font-weight:bold;
+		color: #230C51;
     }
 }
 
