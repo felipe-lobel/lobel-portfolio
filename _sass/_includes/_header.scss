@@ -12,7 +12,7 @@ $gray-overlay-text: #CCC;
 
 .header {
 	position: fixed;
-	padding: 40px 20px;
+	padding: 20px;
 	z-index: 10;
 	background-color: $primary-color;
 	color: $gray-overlay-text;
@@ -81,15 +81,17 @@ $gray-overlay-text: #CCC;
 
 .header__content {
 	width: 100%;
-	position: relative;
+	position: absolute;
+	top: 25px;
+	right: 20px;
 
 	@include mq(tabletl) {
-		// position: absolute;
-		// bottom: 0;
+		position: initial;
 		padding: 40px 40px 34px;
 	}
 
 	@include mq(laptop) {
+		position: initial;
 		padding: 60px 60px 52px;
 	}
 }
