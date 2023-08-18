@@ -20,9 +20,7 @@ papers:
       external_url:
       excerpt:
 
-
-
-    - title: <a href="https://drive.google.com/file/d/17O7uqYih3pJHIEkvcLxLtoqgCmo6xmHH/view?usp=drive_link" target="_blank"> Intra-household Inequality and the Joint Taxation of Household Earnings</a>
+    - title: <a href="https://felipelobel.com/assets/Couples_Taxation.pdf" target="_blank"> Intra-household Inequality and the Joint Taxation of Household Earnings</a>
       link:
       tags:
         - label: theory
