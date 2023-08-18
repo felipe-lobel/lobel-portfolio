@@ -59,6 +59,19 @@
 	font-family: sans-serif;
 }
 
+.page-name--desktop {
+	display: none;
+	@include mq(tabletp) {
+		display: block;
+	}
+}
+
+.page-name--tablet {
+	color:white;
+	font-size: 22px;
+}
+
+
 .author-info {
 	margin-top: 0.1px;
 	font-size: 15px;
