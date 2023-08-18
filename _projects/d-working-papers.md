@@ -5,7 +5,7 @@ subtitle: 'This is a demo'
 order: 2
 
 papers:
-    - title: The Visible Hands of Firms&#58; Consequences for Efficiency and Incidence of Payroll Taxation
+    - title: The Visible Hand of Firms&#58; Consequences for Efficiency and Incidence of Payroll Taxation
       link:
       tags:
         - label: applied micro
