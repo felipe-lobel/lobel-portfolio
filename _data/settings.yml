@@ -12,6 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Home'
       url: '#home'
+    - title: 'Job Market Paper'
+      url: '#b-jmp'
     - title: 'Publications'
       url: '#c-publications'
     - title: 'Working Papers'

@@ -5,21 +5,6 @@ subtitle: 'This is a demo'
 order: 2
 
 papers:
-    - title: The Visible Hand of Firms&#58; Consequences for Efficiency and Incidence of Payroll Taxation
-      link:
-      tags:
-        - label: applied micro
-        - label: theory
-      byline:
-      journal:
-      presentation: NBER Business Taxation; SOLE; NTA; IIPF
-      date:
-      award:
-      draft: New draft coming soon
-      thumbnail: ./images/employment_cost_balance_before_2015_v4.png
-      external_url:
-      excerpt:
-
     - title: <a href="https://felipelobel.com/assets/Couples_Taxation.pdf" target="_blank"> Intra-household Inequality and the Joint Taxation of Household Earnings</a>
       link:
       tags:
