@@ -20,7 +20,7 @@ papers:
       external_url: 
       excerpt: 
 
-    - title: Cash Transfers and the Future of Disadvantaged Children&#58 Evidence from Bolsa Familia
+    - title: Cash Transfers and the Future of Disadvantaged Children in Brazil
       link: 
       tags:
         - label: Applied Micro
