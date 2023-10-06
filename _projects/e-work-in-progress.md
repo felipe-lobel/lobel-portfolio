@@ -8,8 +8,6 @@ order: 3
 papers:
     - title: The Socio-Economic Effects of Large-Scale Subsidized Housing Program
       link: 
-      tags:
-        - label: Applied Micro
       byline: "with Hadar Aviv and Winnie Van Dijk"
       status: 
       journal: 
@@ -22,8 +20,6 @@ papers:
 
     - title: Cash Transfers and the Future of Disadvantaged Children in Brazil
       link: 
-      tags:
-        - label: Applied Micro
       byline: "with Christopher Campos and Valdemar Neto"
       status: 
       journal: 
