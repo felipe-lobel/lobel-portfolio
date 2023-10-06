@@ -68,7 +68,7 @@ social:
 				<h2 class="section-title">{{ research.title }}</h2>
  
 				{% for paper in research.papers %}
-					<article class="proj-card">
+					<article class="proj-card{% unless paper.thumbnail %} proj-card--no-thumb{% endunless %}">
 						<header class="proj-card__item proj-head">
 							<div class="proj-head__eyebrows">
 								{% for tag in paper.tags %}
@@ -77,7 +77,11 @@ social:
 							</div>
 
 							<h2 class="proj-head__title">
-								<a href="{{paper.link}}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+								{% if paper.link %}
+									<a href="{{paper.link}}" target="_blank" rel="noopener noreferrer">{{ paper.title }}</a>
+								{% else %}
+									{{ paper.title }}
+								{% endif %}
 							</h2>
 
 							<div class="proj-head__meta">
@@ -107,27 +111,27 @@ social:
 									{{ paper.draft }}
 								</p>
 								{% endif %}
-
 							</div>
-
 						</header>
 
-						<figure class="proj-card__item proj-thumbnail">
-							<img src={{paper.thumbnail}} alt="project thumbnail"/>
-						</figure>
+						{% if paper.thumbnail %}
+							<figure class="proj-card__item proj-thumbnail">
+								<img src={{paper.thumbnail}} alt="project thumbnail"/>
+							</figure>
 
-						<div class="proj-card__item" >
-							{% if paper.excerpt %}
-							<div class="proj-excerpt readmore is-closed">
-								<p class="line-clamp">
-									
-									<span style="font-weight: bold; color: black;text-decoration:underline;"> Abstract:</span> {{ paper.excerpt }}
-								</p>
-								<button class="readmore-btn open">Read more</button>
-								<button class="readmore-btn close">Read less</button>
+							<div class="proj-card__item" >
+								{% if paper.excerpt %}
+								<div class="proj-excerpt readmore is-closed">
+									<p class="line-clamp">
+										
+										<span style="font-weight: bold; color: black;text-decoration:underline;"> Abstract:</span> {{ paper.excerpt }}
+									</p>
+									<button class="readmore-btn open">Read more</button>
+									<button class="readmore-btn close">Read less</button>
+								</div>
+								{% endif %}
 							</div>
-							{% endif %}
-
+						{% endif %}
 					</article>
 				{% endfor %}
 			</div>

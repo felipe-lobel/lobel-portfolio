@@ -16,6 +16,13 @@
     }
 }
 
+.proj-card--no-thumb {
+    padding: 40px 20px 20px;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+}
+
 .proj-card__item {
     margin: 0 30px 0 0;
     width: auto;
@@ -37,12 +44,13 @@
     font-size: 18px;
     text-align: left;
     line-height: 1.4;
+    color: #230C51;
+    font-weight: bold;
 
     a {
         color: #230C51;
         font-weight: bold;
     }
-
 }
 
 
