@@ -14,12 +14,12 @@ papers:
         - label: theory
       byline:
       journal:
-      presentation: NBER Business Taxation; SOLE; NTA; IIPF
+      presentation: NBER Public Economics and Business Taxation
       date:
       award:
       draft: New draft coming soon
       thumbnail: ./images/employment_cost_balance_before_2015_v5.png
       external_url:
-      excerpt: This paper studies a historically large payroll tax cut that affected a subset of Brazilian firms. Difference-in-differences estimates based on plausibly exogenous legal variation, indicate that the payroll tax reduction causes an increase in employment, wages, and profits, while capital decreases. Responses are substantially more pronounced among small firms, which are estimated to possess less market power. In terms of mechanisms, two-thirds of the employment effect arises from plant size expansion rather than input substitution. Consumers pay 75% of payroll taxes, while firm owners and workers pay 25%. Estimates of a monopsonistically competitive model of factor demand quantifies that a targeted alternative tax policy focusing on small firms could amplify efficiency gains by 36% while enhancing workers' welfare gains by 95%. These results show that market power not only mitigates the distortionary costs of taxation, but also redistributes the tax burden from workers to firm owners and consumers.
+      excerpt: This paper focuses on the role of market power to study a historically large payroll tax cut that affects a subset of Brazilian firms. Difference-in-differences estimates based on plausibly exogenous legal variation indicate that the payroll tax reduction causes an increase in employment, wages, and profits, while capital decreases. Responses are substantially more pronounced among small firms, which are estimated to possess less market power. Two-thirds of the employment effect arises from plant size expansion and one-third from input substitution. Reduced-form estimates reveal that consumers pay 75% of payroll taxes, firm owners 11%, and workers 14%. Estimates of a monopsonistically competitive model of factor demand suggest that a targeted alternative tax policy focusing on small firms could amplify the efficiency gains of the tax cut by 36% and enhancing workers' welfare gains by 95%. These results establish that market power not only mitigates the distortionary costs of taxation but also redistributes the tax burden from workers to firm owners and consumers.
 
 ---
