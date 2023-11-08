@@ -6,7 +6,7 @@ featured_image: '/images/demo/demo-square.jpg'
 order: 3
 
 papers:
-    - title: The Socio-Economic Effects of Large-Scale Subsidized Housing Program
+    - title: The Socio-Economic Effects of a Large-Scale Subsidized Housing Program
       link: 
       byline: "with Hadar Aviv and Winnie Van Dijk"
       status: 
