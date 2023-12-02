@@ -15,6 +15,7 @@ papers:
       byline:
       journal:
       presentation: NBER Public Economics and Business Taxation
+      media: <a href="https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml" target="_blank"> O Globo</a>
       date:
       award:
       draft:
