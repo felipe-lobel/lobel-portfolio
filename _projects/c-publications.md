@@ -26,7 +26,7 @@ papers:
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
       status: Accepted
       journal: Journal of Public Economics
-      date: Aug 2024
+      date: 2024
       award:
       draft:
       thumbnail: ./images/couples_illustration.png
