@@ -24,12 +24,12 @@ papers:
       tags:
         - label: theory
       byline: "with Cassiano Alves, Carlos da Costa and Humberto Moreira"
-      status: Accepted
+      status:
       journal: Journal of Public Economics
       date: 2024
       award:
       draft:
-      thumbnail: ./images/couples_illustration.png
+      thumbnail: ./images/couples_main_figure.jpg
       external_url:
       excerpt: We derive the optimal joint-income tax schedule for couples, focusing on the distinction between interpersonal and inter-household inequality. Households are composed of two spouses with possibly unequal access to the family’s economic resources. Individual-oriented utilitarianism typically leads to a misalignment between the households’ and the government’s objectives, a phenomenon termed dissonance by Apps and Rees (1988). The traditional ABC formula must be amended by including a Pigouvian term to correct for dissonance. Under general conditions, the effect of dissonance on marginal taxes is ambiguous; its sign depends on whether the less powerful spouse’s marginal contribution to household earnings is less than, or greater than, her marginal entitlement to household consumption. Assuming identical iso-elastic preferences, the multidimensional heterogeneity collapses into a single-dimensional index, preserving the single-crossing property. This simplification enables us to solve Mirrlees (1971)’s multidimensional program and quantitatively assess the size and sign of the Pigouvian term, which is positive across all income levels, leading to higher marginal tax rates.
 
