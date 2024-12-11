@@ -15,7 +15,7 @@ papers:
       presentation: NBER Public Economics and Business Taxation, Cowles Conference on Public and Labor Economics, Stanford SITE, SOLE, IIPF Conference
       media: <a href="https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml" target="_blank"> O Globo</a>
       date:
-      award:
+      award: Best Dissertation (UC Berkeley)
       draft:
       thumbnail: ./images/employment_cost_balance_before_2015_v5.png
       external_url:
