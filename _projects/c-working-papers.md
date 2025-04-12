@@ -1,6 +1,6 @@
 ---
 title: 'Working Papers'
-slug: 'd-working-papers'
+slug: 'c-working-papers'
 subtitle: 'This is a demo'
 order: 1
 

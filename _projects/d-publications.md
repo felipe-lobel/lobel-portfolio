@@ -1,6 +1,6 @@
 ---
 title: 'Publications'
-slug: 'c-publications'
+slug: 'd-publications'
 subtitle: 'This is a demo'
 featured_image: '/images/demo/demo-square.jpg'
 byline: "Yello world"
