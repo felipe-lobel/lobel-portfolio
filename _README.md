@@ -4,7 +4,7 @@ If you have any questions or feedback about the theme, don't hesitate to reach o
 
 ---
 
-## Getting started
+## Getting started (testing)
 
 * Copy the theme files to your website directory.
 * Install Homebrew and Ruby (recommend installing chruby as your ruby version manager)
