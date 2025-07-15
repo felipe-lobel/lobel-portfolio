@@ -26,7 +26,19 @@ papers:
       byline: "with Hadar Aviv, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
       status: 
       journal: 
-      presentation: 
+      presentation: NBER Public Spring Meeting, CEPR Public Economics, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress
+      date: 
+      award:
+      draft:
+      external_url: 
+      excerpt:
+
+    - title: The Role of Family Proximity in Location Choices and Labor Supply
+      link: 
+      byline: "with Hadar Aviv, Santiago Lacouture and Winnie van Dijk"
+      status: 
+      journal: 
+      presentation: UEA Montreal 2025, LACEA 2025
       date: 
       award:
       draft:
