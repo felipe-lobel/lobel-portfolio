@@ -26,7 +26,19 @@ papers:
       byline: "with Hadar Aviv, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
       status: 
       journal: 
-      presentation: NBER Public Spring Meeting, CEPR Public Economics, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress
+      presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress
+      date: 
+      award:
+      draft:
+      external_url: 
+      excerpt:
+
+    - title: Optimal Informality
+      link: 
+      byline: "with Carlos da Costa"
+      status: 
+      journal: 
+      presentation: Columbia University (CBS), RIDGE Public Economics, Econometric Society 2018; Public Economic Theory 2017; Brazilian Econometric Society 2017; UC Berkeley PF and Development Lunch 2018
       date: 
       award:
       draft:
