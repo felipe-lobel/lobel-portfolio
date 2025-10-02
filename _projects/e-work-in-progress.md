@@ -26,7 +26,7 @@ papers:
       byline: "with Hadar Aviv, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
       status: 
       journal: 
-      presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress
+      presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress, NTA 2025
       date: 
       award:
       draft:
@@ -50,7 +50,7 @@ papers:
       byline: "with Hadar Aviv, Santiago Lacouture and Winnie van Dijk"
       status: 
       journal: 
-      presentation: UEA Montreal 2025, LACEA 2025
+      presentation: U Chicago, Bocconi, UEA Montreal 2025, LACEA 2025
       date: 
       award:
       draft:
