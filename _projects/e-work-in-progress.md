@@ -21,6 +21,18 @@ papers:
     #   external_url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231413
     #   excerpt: What is the cost of informality? On the one hand, an informal sector creates a restriction on the set of policies that can be implemented. On the other hand, its existence offers an alternative for those for whom the benefits of formal relations do not compensate for the costs. Based on Mirrlees’ (1971b) we propose an optimal tax formula that accounts for the existence of informality. This allows us to adopt an inverse-optimum procedure to recover the social objective that rationalizes the current tax system and use it to evaluate the welfare consequences of eliminating the informal sector. Using survey data from Brazil that encompasses formal and informal workers’ wages, we calibrate the model to recover the main parameters that underlie the formalization decision, i.e., the joint distribution of productivity and the formalization costs. We find welfare gains of 6.3% which can be decomposed into a 2% gain from a direct increase in tax revenues and a 4.3% gain from re-optimizing the tax system.
 
+    - title: The Role of Family Proximity in Location Choices and Labor Supply
+      link: 
+      byline: "with Hadar Aviv, Santiago Lacouture and Winnie van Dijk"
+      status: 
+      journal: 
+      presentation: University of Chicago, Bocconi, UEA Montreal 2025, LACEA 2025
+      date: 
+      award:
+      draft:
+      external_url: 
+      excerpt:
+
     - title: The Role of Tax Preparers in Individual Tax Optimization
       link: 
       byline: "with Hadar Aviv, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
@@ -45,15 +57,4 @@ papers:
       external_url: 
       excerpt:
 
-    - title: The Role of Family Proximity in Location Choices and Labor Supply
-      link: 
-      byline: "with Hadar Aviv, Santiago Lacouture and Winnie van Dijk"
-      status: 
-      journal: 
-      presentation: U Chicago, Bocconi, UEA Montreal 2025, LACEA 2025
-      date: 
-      award:
-      draft:
-      external_url: 
-      excerpt:
 ---
