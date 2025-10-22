@@ -23,7 +23,7 @@ papers:
 
     - title: The Role of Family Proximity in Location Choices and Labor Supply
       link: 
-      byline: "with Hadar Aviv, Santiago Lacouture and Winnie van Dijk"
+      byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"
       status: 
       journal: 
       presentation: University of Chicago, Bocconi, UEA Montreal 2025, LACEA 2025
@@ -35,7 +35,7 @@ papers:
 
     - title: The Role of Tax Preparers in Individual Tax Optimization
       link: 
-      byline: "with Hadar Aviv, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
+      byline: "with Hadar Avivi, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
       status: 
       journal: 
       presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress, NTA 2025
