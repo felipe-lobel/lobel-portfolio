@@ -11,7 +11,7 @@ papers:
         - label: applied micro
         - label: theory
       byline:
-      status: Revise and resubmit
+      status: Revised and resubmitted
       journal: Journal of Political Economy
       presentation: NBER Public Economics and Business Taxation, Cowles Conference on Public and Labor Economics, Stanford SITE, SOLE, IIPF Conference
       media: <a href="https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml" target="_blank"> O Globo</a>
@@ -30,7 +30,7 @@ papers:
       byline: "with Michael Best and Valdemar Neto"
       status:
       journal:
-      presentation: Stanford University, London School of Economics/ University College of London Workshop, University of Chicago Harris, University of British Columbia, Georgetown University,  World Bank Public Finance Conference
+      presentation: Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
       media:
       date:
       award:

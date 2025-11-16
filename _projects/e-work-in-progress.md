@@ -38,7 +38,7 @@ papers:
       byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"
       status: 
       journal: 
-      presentation: University of Chicago, Bocconi, UEA Montreal 2025, LACEA 2025
+      presentation: UEA Montreal 2025, LACEA 2025
       date: 
       award:
       draft:
@@ -62,7 +62,7 @@ papers:
       byline: "with Carlos da Costa"
       status: 
       journal: 
-      presentation: Columbia University (CBS), RIDGE Public Economics, Econometric Society 2018; Public Economic Theory 2017; Brazilian Econometric Society 2017; UC Berkeley PF and Development Lunch 2018
+      presentation: Columbia University (CBS Econ), LACEA 2025, RIDGE Public Economics 2025, Econometric Society 2018; Public Economic Theory 2017; Brazilian Econometric Society 2017; UC Berkeley PF and Development Lunch 2018
       date: 
       award:
       draft:
