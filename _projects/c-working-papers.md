@@ -25,12 +25,13 @@ papers:
     - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
       link:
       tags:
-        - label: applied micro
-        - label: theory
+        - label: Available upon request
+        # - label: applied micro
+        # - label: theory
       byline: "with Michael Best and Valdemar Neto"
       status:
       journal:
-      presentation: Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
+      presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
       media:
       date:
       award:
