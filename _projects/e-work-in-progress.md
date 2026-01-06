@@ -33,6 +33,18 @@ papers:
     #   external_url: 
     #   excerpt:
 
+    - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
+      link: 
+      byline: "with Michael Best and Valdemar Neto"
+      status: 
+      journal: 
+      presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
+      date: 
+      award:
+      draft:
+      external_url: 
+      excerpt:
+
     - title: The Role of Family Proximity in Location Choices and Labor Supply
       link: 
       byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"

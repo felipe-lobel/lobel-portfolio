@@ -22,23 +22,23 @@ papers:
       external_url: Journal of Political Economy
       excerpt: This paper studies firms’ margins of response to a historically large payroll tax cut that affects a subset of Brazilian firms. Difference-in-differences estimates based on plausibly exogenous legal variation indicate that the payroll tax reduction causes an increase in employment, wages, and profits, while capital decreases. Responses are substantially more pronounced among small firms, and workers’ earnings gains are concentrated at the top of the distribution. This evidence cannot be reconciled within a competitive framework. I estimate a model that allows for product and labor market power to explain these findings. Reduced-form estimates reveal that consumers pay 65% of payroll taxes, firm owners 23%, and workers 12%. These results establish not only that payroll tax cuts primarily benefit consumers, but also exacerbate within-firm earnings inequality.
     
-    - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
-      link:
-      tags:
-        - label: Available upon request
-        # - label: applied micro
-        # - label: theory
-      byline: "with Michael Best and Valdemar Neto"
-      status:
-      journal:
-      presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
-      media:
-      date:
-      award:
-      draft: 
-      thumbnail: ./images/death_pp_rel_fe_year_id_sus_cell_0_all.png
-      external_url:
-      excerpt:
+    # - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
+    #   link:
+    #   tags:
+    #     - label: Available upon request
+    #     # - label: applied micro
+    #     # - label: theory
+    #   byline: "with Michael Best and Valdemar Neto"
+    #   status:
+    #   journal:
+    #   presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
+    #   media:
+    #   date:
+    #   award:
+    #   draft: 
+    #   thumbnail: ./images/death_pp_rel_fe_year_id_sus_cell_0_all.png
+    #   external_url:
+    #   excerpt:
 
     # - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231413" target="_blank"> The Cost of Informality&#58 An Optimal Taxation Approach </a>
     #   link: 
