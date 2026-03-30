@@ -33,17 +33,17 @@ papers:
     #   external_url: 
     #   excerpt:
 
-    - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
-      link: 
-      byline: "with Michael Best and Valdemar Neto"
-      status: 
-      journal: 
-      presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
-      date: 
-      award:
-      draft:
-      external_url: 
-      excerpt:
+    # - title: Cash Transfers and Productive Inclusion&#58; Theory and Evidence from Brazil
+    #   link: 
+    #   byline: "with Michael Best and Valdemar Neto"
+    #   status: 
+    #   journal: 
+    #   presentation: Harvard University (Econ), Stanford University (Econ), London School of Economics/ University College of London, University of British Columbia, George Washington University,  World Bank Public Finance Conference
+    #   date: 
+    #   award:
+    #   draft:
+    #   external_url: 
+    #   excerpt:
 
     - title: The Role of Family Proximity in Location Choices and Labor Supply
       link: 
@@ -62,7 +62,7 @@ papers:
       byline: "with Hadar Avivi, Katarzyna Bilicka, Jakob Brounstein and Alexander Yuskavage"
       status: 
       journal: 
-      presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT Econ, UC Berkeley Econ, IFS, IIPF Annual Congress, NTA 2025
+      presentation: NBER Public Spring Meeting, CEPR Public Economics, Stanford GSB, MIT, UC Berkeley, IFS, IIPF Annual Congress, NTA 2025
       date: 
       award:
       draft:
@@ -74,7 +74,7 @@ papers:
       byline: "with Carlos da Costa"
       status: 
       journal: 
-      presentation: Columbia University (CBS Econ), LACEA 2025, RIDGE Public Economics 2025, Econometric Society 2018; Public Economic Theory 2017; Brazilian Econometric Society 2017; UC Berkeley PF and Development Lunch 2018
+      presentation: Columbia University (CBS), LACEA 2025, RIDGE Public Economics 2025, Econometric Society 2018; Public Economic Theory 2017; Brazilian Econometric Society 2017; UC Berkeley PF and Development Lunch 2018
       date: 
       award:
       draft:
