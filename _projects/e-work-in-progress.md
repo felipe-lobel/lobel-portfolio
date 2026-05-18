@@ -50,7 +50,7 @@ papers:
       byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"
       status: 
       journal: 
-      presentation: UEA Montreal 2025, LACEA 2025
+      presentation: NBER SI 2026, Cambridge 2026, SOLE 2026, UEA Montreal 2025, LACEA 2025
       date: 
       award:
       draft:
