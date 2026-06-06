@@ -45,7 +45,7 @@ papers:
     #   external_url: 
     #   excerpt:
 
-    - title: The Role of Family Proximity in Location Choices and Labor Supply
+    - title: Family Ties, Residential Location Choice, and Labor Supply
       link: 
       byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"
       status: 

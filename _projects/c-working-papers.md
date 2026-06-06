@@ -29,8 +29,8 @@ papers:
         - label: applied micro
         - label: theory
       byline: "with Michael Best and Valdemar Neto"
-      status:
-      journal:
+      status: Revise and Resubmit
+      journal: Journal of Political Economy
       presentation: Harvard/ MIT, Stanford University, London School of Economics/ University College of London, Columbia University, University of British Columbia, UCSD, UCSC, World Bank Seminar, George Washington University, World Bank Public Finance Conference
       media: <a href="https://felipelobel.com/assets/Bolsa_Familia_Valor.pdf" target="_blank"> Valor</a>
       date:
