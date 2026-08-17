@@ -11,7 +11,7 @@ papers:
         - label: applied micro
         - label: theory
       byline:
-      status: Revised and resubmitted
+      status: July 2026. Revise and Resubmit (2nd round)
       journal: Journal of Political Economy
       presentation: NBER Public Economics and Business Taxation, Cowles Conference on Public and Labor Economics, Stanford SITE, SOLE, IIPF Conference
       media: <a href="https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml" target="_blank"> O Globo</a>
@@ -21,7 +21,7 @@ papers:
       thumbnail: ./images/employment_cost_balance_before_2015_v5.png
       external_url: Journal of Political Economy
       excerpt: This paper studies firms’ margins of response to a historically large payroll tax cut that affects a subset of Brazilian firms. Difference-in-differences estimates based on plausibly exogenous legal variation indicate that the payroll tax reduction causes an increase in employment, wages, and profits, while capital decreases. Responses are substantially more pronounced among small firms, and workers’ earnings gains are concentrated at the top of the distribution. This evidence cannot be reconciled within a competitive framework. I estimate a model that allows for product and labor market power to explain these findings. Reduced-form estimates reveal that consumers pay 65% of payroll taxes, firm owners 23%, and workers 12%. These results establish not only that payroll tax cuts primarily benefit consumers, but also exacerbate within-firm earnings inequality.
-    
+
     - title: <a href="https://felipelobel.com/assets/NBER_wp_BLN_BolsaFam.pdf" target="_blank"> Cash Transfers and Productive Inclusion&#58; Evidence from Bolsa Família </a>
       link:
       tags:
@@ -29,7 +29,7 @@ papers:
         - label: applied micro
         - label: theory
       byline: "with Michael Best and Valdemar Neto"
-      status: Revise and Resubmit
+      status: June 2026. Revise and Resubmit
       journal: Journal of Political Economy
       presentation: Harvard/ MIT, Stanford University, London School of Economics/ University College of London, Columbia University, University of British Columbia, UCSD, UCSC, World Bank Seminar, George Washington University, World Bank Public Finance Conference
       media: <a href="https://felipelobel.com/assets/Bolsa_Familia_Valor.pdf" target="_blank"> Valor</a>
