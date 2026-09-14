@@ -55,7 +55,7 @@ papers:
       draft: 
       thumbnail: ./images/fig_predicted_estimated_eti.png
       external_url:
-      excerpt: Do  firms respond similarly to corporate tax incentives across countries? We provide globally comparable estimates of the corporate elasticity of taxable income using administrative tax return data from sixteen countries and a unified empirical framework. Exploiting bunching at a common kink, zero taxable income, we estimate elasticities ranging from 0.08 to 1.9, with an average of 0.79. To explain this heterogeneity, we link elasticities to tax policy,  firm characteristics, and country fundamentals. These differences imply that identical corporate tax reforms can generate sharply different revenue effects across countries, leading to substantial heterogeneity in the efficiency costs of corporate taxation.
+      excerpt: Do firms respond similarly to corporate tax incentives across countries? We provide globally comparable estimates of the corporate elasticity of taxable income using administrative tax return data from sixteen countries and a unified empirical framework. Exploiting bunching at a common kink, zero taxable income, we estimate elasticities ranging from 0.08 to 1.9, with an average of 0.79. To explain this heterogeneity, we link elasticities to tax policy, firm characteristics, and country fundamentals. These differences imply that identical corporate tax reforms can generate sharply different revenue effects across countries, leading to substantial heterogeneity in the efficiency costs of corporate taxation.
 
     # - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231413" target="_blank"> The Cost of Informality&#58 An Optimal Taxation Approach </a>
     #   link: 
