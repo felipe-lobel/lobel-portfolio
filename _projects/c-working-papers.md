@@ -40,6 +40,23 @@ papers:
       external_url:
       excerpt: We study how cash transfers affect work and health. Exploiting an increase in the generosity of the world's largest cash-transfer program for the extremely poor, we show that the reform raised employment by 5 percent while sharply improving health&#58; hospitalization fell 8 percent and mortality 14 percent, saving roughly 1,000 lives. These findings challenge the view that transfers reduce work. Instead, transfers can relax binding subsistence and health constraints, raise productivity, and expand labor supply. We formalize this mechanism in a model of productive inclusion and use it to evaluate welfare, yielding lessons for antipoverty policy design in low-income settings.
 
+    - title: <a href="https://felipelobel.com/assets/Cross_Country_Corporate_Elasticity_website.pdf" target="_blank"> The Elasticity of Corporate Taxable Income Across Countries </a>
+      link:
+      tags:
+        - label: applied micro
+        - label: theory
+      byline: "with Nathan Seegert et al."
+      status: September 2026. Reject and Resubmit
+      journal: Quarterly Journal of Economics
+      presentation:
+      media:
+      date:
+      award:
+      draft: 
+      thumbnail: ./images/fig_predicted_estimated_eti.png
+      external_url:
+      excerpt: Do  firms respond similarly to corporate tax incentives across countries? We provide globally comparable estimates of the corporate elasticity of taxable income using administrative tax return data from sixteen countries and a unified empirical framework. Exploiting bunching at a common kink, zero taxable income, we estimate elasticities ranging from 0.08 to 1.9, with an average of 0.79. To explain this heterogeneity, we link elasticities to tax policy,  firm characteristics, and country fundamentals. These differences imply that identical corporate tax reforms can generate sharply different revenue effects across countries, leading to substantial heterogeneity in the efficiency costs of corporate taxation.
+
     # - title: <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4231413" target="_blank"> The Cost of Informality&#58 An Optimal Taxation Approach </a>
     #   link: 
     #   tags:
