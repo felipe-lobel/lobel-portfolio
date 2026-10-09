@@ -11,7 +11,7 @@ papers:
         - label: applied micro
         - label: theory
       byline:
-      status: July 2026. Revise and Resubmit (2nd round)
+      status: Sep 2026. Revised and Resubmitted (2nd round)
       journal: Journal of Political Economy
       presentation: NBER Public Economics and Business Taxation, Cowles Conference on Public and Labor Economics, Stanford SITE, SOLE, IIPF Conference
       media: <a href="https://oglobo.globo.com/economia/carlos-goes/coluna/2023/12/a-desoneracao-da-folha-de-pagamento-vale-a-pena.ghtml" target="_blank"> O Globo</a>
@@ -46,7 +46,7 @@ papers:
         - label: applied micro
         - label: theory
       byline: "with Nathan Seegert et al."
-      status: September 2026. Reject and Resubmit
+      status: Sep 2026. Reject and Resubmit
       journal: Quarterly Journal of Economics
       presentation:
       media:

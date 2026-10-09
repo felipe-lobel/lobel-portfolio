@@ -45,12 +45,12 @@ papers:
     #   external_url: 
     #   excerpt:
 
-    - title: Family Ties, Residential Location Choice, and Labor Supply
+    - title: <a href="https://felipelobel.com/assets/NBER_SI_2026.pdf" target="_blank"> Family Ties, Residential Location Choice, and Labor Supply </a>
       link: 
       byline: "with Hadar Avivi, Santiago Lacouture and Winnie van Dijk"
       status: 
       journal: 
-      presentation: NBER SI 2026, Cambridge 2026, SOLE 2026, UEA Montreal 2025, LACEA 2025
+      presentation: NBER SI 2026 <a href="https://felipelobel.com/assets/NBER_SI_2026.pdf" target="_blank"> [Slides] </a>, Cambridge 2026, SOLE 2026, UEA Montreal 2025, LACEA 2025
       date: 
       award:
       draft:
